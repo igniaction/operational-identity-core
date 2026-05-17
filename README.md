@@ -1,0 +1,38 @@
+# Operational Identity Core
+
+## PT-BR
+
+Fundação operacional reutilizável para resolução de identidade,
+papéis organizacionais e permissões desacopladas de frameworks.
+
+## EN
+
+Reusable operational foundation for identity resolution,
+organizational roles and permissions decoupled from frameworks.
+
+---
+
+## Architecture Principles
+
+- Framework Agnostic
+- Domain Driven Design
+- Clean Architecture
+- Repository Pattern
+- Capability Based Design
+- Operational Visibility
+- Runtime Observability
+
+---
+
+## Stack
+
+- Python
+- PostgreSQL
+- SQLAlchemy
+- Alembic
+- Pydantic
+- Pytest
+- Docker
+- Ruff
+- mypy
+- GitHub Actions

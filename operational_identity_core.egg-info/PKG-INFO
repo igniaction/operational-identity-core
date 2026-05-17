@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: operational-identity-core
+Version: 0.1.0
+Summary: Framework agnostic operational identity core.
+Author: Richardson Almeida
+Requires-Python: >=3.11
+Requires-Dist: sqlalchemy
+Requires-Dist: psycopg2-binary
+Requires-Dist: pydantic
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pytest-cov; extra == "dev"
+Requires-Dist: ruff; extra == "dev"
+Requires-Dist: mypy; extra == "dev"
