@@ -15,6 +15,7 @@ dependencies = [
     "sqlalchemy",
     "psycopg2-binary",
     "pydantic",
+    "flask",
 ]
 
 [project.optional-dependencies]
