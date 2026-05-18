@@ -50,3 +50,12 @@ organizational roles and permissions decoupled from frameworks.
 - docs/diagrams/container-view.md
 - docs/diagrams/component-view.md
 - docs/diagrams/runtime-flow.md
+
+## Operational Documentation
+
+- docs/request-lifecycle.md
+- docs/identity-propagation.md
+- docs/permission-aggregation.md
+- docs/observability-pipeline.md
+- docs/persistence-lifecycle.md
+- docs/runtime-portability.md
