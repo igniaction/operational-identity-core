@@ -1,9 +1,0 @@
-sqlalchemy
-psycopg2-binary
-pydantic
-
-[dev]
-pytest
-pytest-cov
-ruff
-mypy
