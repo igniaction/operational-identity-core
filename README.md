@@ -59,3 +59,11 @@ organizational roles and permissions decoupled from frameworks.
 - docs/observability-pipeline.md
 - docs/persistence-lifecycle.md
 - docs/runtime-portability.md
+
+## Strategic Documentation
+
+- docs/roadmap.md
+- docs/ecosystem.md
+- docs/interoperability.md
+- docs/future-runtime-adapters.md
+- docs/organizational-platform-vision.md
