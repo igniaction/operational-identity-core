@@ -36,3 +36,17 @@ organizational roles and permissions decoupled from frameworks.
 - Ruff
 - mypy
 - GitHub Actions
+---
+
+# Documentation
+
+## Architecture
+
+- docs/architecture.md
+
+## Diagrams
+
+- docs/diagrams/system-context.md
+- docs/diagrams/container-view.md
+- docs/diagrams/component-view.md
+- docs/diagrams/runtime-flow.md
